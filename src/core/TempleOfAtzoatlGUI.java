@@ -7,7 +7,6 @@ import java.util.Observable;
 import java.util.Observer;
 
 import javax.swing.JFrame;
-import java.awt.Window.Type;
 import javax.swing.JLabel;
 import java.awt.Font;
 import javax.swing.JButton;
